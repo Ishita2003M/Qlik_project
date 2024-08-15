@@ -4,6 +4,7 @@ Business Analytics Internship by Smart Internz
 Project: LendingClub Issued Loans Analysis (through Qlik)
 
 About the project:
+
 LendingClub, a peer-to-peer lending company, provides opportunities for borrowers to obtain personal loans and for investors to fund those loans for returns.
 Lack of analysis of peer-to-peer lending data properly, might make bad decisions, take on more risk, lose investor trust, and break the rules.
 This project aims to conduct a comprehensive analysis of peer-to-peer lending data from Lending Club to gain insights into loan performance, borrower behavior, and risk factors.
