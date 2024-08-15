@@ -9,3 +9,5 @@ Dataset link - https://www.kaggle.com/datasets/husainsb/lendingclub-issued-loans
 Skills Required: Business Intelligence,
 Mentor Name: Data Analytics MP Mentor1,
 Project Duration: 30 Days.
+
+Video Demonstration Link - https://drive.google.com/file/d/1PfLMwchwUQOuLgi4miHfeqHa8vRqCknb/view?usp=drive_link.
