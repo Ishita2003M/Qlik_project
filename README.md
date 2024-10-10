@@ -15,6 +15,6 @@ Video Demonstration Link - https://drive.google.com/file/d/1PfLMwchwUQOuLgi4miHf
 
 Skills Required: Business Intelligence
 
-Mentor Name: Data Analytics MP Mentor1
+Mentor Name: Siri
 
 Project Duration: 30 Days
